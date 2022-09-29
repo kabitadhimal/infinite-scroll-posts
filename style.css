@@ -1,0 +1,18 @@
+/*!
+Theme Name: nowcfo
+Theme URI: https://www.nowcfo.com/
+Author: Devfinity
+Author URI: https://devfinity.io/
+Description: NOW CFO is a “roll-up our sleeves” full service consulting firm with a singular focus on outsourced CFO, Controller, accounting, and finance needs.
+Version: 1.0.15
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+Text Domain: nowcfo
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+@import "./assets/css/nowcfo.css";
